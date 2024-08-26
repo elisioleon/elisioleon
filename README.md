@@ -11,7 +11,7 @@
 ### Skills :woman_technologist:
 
 * **Programming:** Python 
-* **Data libs and tools:** Jupyter Notebook, Google Colab notebooks, Numpy, Pandas, Matplotlib, Seaborn, Plotly, Scikit-learn, MS Office, MS Excel and Google Suite.
+* **Data libs and tools:** Jupyter Notebook, Google Colab notebooks, Numpy, Pandas, Matplotlib, Seaborn, Plotly, Graphviz, Scikit-learn, MS Office, MS Excel and Google Suite.
   
  ### Courses - [Alura](https://www.alura.com.br/) 👩‍🏫
 - [Data Science: analyzing and predicting time series](https://cursos.alura.com.br/course/data-science-analisando-prevendo-series-temporais)
