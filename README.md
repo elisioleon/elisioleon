@@ -21,6 +21,7 @@
 - [Data Governance: Understanding the Data Lifecycle](https://cursos.alura.com.br/course/governanca-dados-conhecendo-ciclo-vida-dados)
 - [Data Science: Testing Relationships with Linear Regression](https://cursos.alura.com.br/course/data-science-testando-relacoes-regressao-linear)
 - [Python: Data Analysis with SQL](https://cursos.alura.com.br/course/python-analise-dados-sql)
+- [Data Visualization: Creating Graphs with Python Libraries](https://cursos.alura.com.br/course/data-visualization-graficos-bibliotecas-python)
 
 
  ### Data Science Projects 🎲
