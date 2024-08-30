@@ -22,6 +22,7 @@
 - [Data Science: Testing Relationships with Linear Regression](https://cursos.alura.com.br/course/data-science-testando-relacoes-regressao-linear)
 - [Python: Data Analysis with SQL](https://cursos.alura.com.br/course/python-analise-dados-sql)
 - [Data Visualization: Creating Graphs with Python Libraries](https://cursos.alura.com.br/course/data-visualization-graficos-bibliotecas-python)
+- [Machine Learning: Classification with SKLearn](https://cursos.alura.com.br/course/machine-learning-introducao-a-classificacao-com-sklearn)
 
 
  ### Data Science Projects 🎲
