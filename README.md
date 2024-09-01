@@ -28,6 +28,7 @@
  ### Data Science Projects 🎲
 
 - [House Prices - Advanced Regression Techniques](https://github.com/elisioleon/House_Prices_Advanced_Regression_Techniques_Kaggle)
+- [Machine Learning - classification with sklearn](https://github.com/elisioleon/Machine_Learning-classification_with_sklearn)
 
 ### How to reach me 📫
 
