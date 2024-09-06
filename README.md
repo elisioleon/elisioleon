@@ -30,6 +30,7 @@
 
 - [House Prices - Advanced Regression Techniques](https://github.com/elisioleon/House_Prices_Advanced_Regression_Techniques_Kaggle)
 - [Machine Learning - classification with sklearn](https://github.com/elisioleon/Machine_Learning-classification_with_sklearn)
+- [Data clustering: customer segmentation](https://github.com/elisioleon/Data_Clustering_-_Customer_Segmentation)
 
 ### How to reach me 📫
 
